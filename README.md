@@ -19,7 +19,7 @@ Actualmente estudio **Análisis y Desarrollo de Software**, lo que me ha permiti
 
 - 💻 Lógica de programación
 - 🧠 Análisis de datos (en formación)
-- 📄 Herramientas (Python,HTML y CSS)
+- 📄 Herramientas (Python,HTML, CSS,javascript
 
 ---
 
